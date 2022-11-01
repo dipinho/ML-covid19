@@ -4,6 +4,8 @@
 *Projeto Digital Innovation One em parceria com o Prof. Dr. Neylson Crepalde*
 <br>
 
+
+![alt text](https://cdn.activestate.com/wp-content/uploads/2020/07/PythonVsCOVID-1200x684.jpg)
 ## Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
 <br>
  
